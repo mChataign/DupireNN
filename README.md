@@ -1,15 +1,17 @@
 # DupireNN
+Authors: Chatainger, Crepey and Dixon. If this code is used for research purposes, please cite:
 
-Neural network local volatility with dupire formula.
+Dixon, M., Crepey, S. and M. Chataigner, "Deep Local Volatility", preprint, April 2020.
 
-Implementation is contained dupireNN.ipynb notebook. Due to gitHub size limitation (25mb max per file), outputs from our notebook have been deleted. Only code is still present in this notebook.
+# Overview
+This notebook implements neural network local volatility with the Dupire formula.
+The implementation is in dupireNN.ipynb notebook. Due to GitHub size limitations (25mb max per file), outputs from our notebook have been deleted. Only the code remains in this notebook.
 
-BS folder contains some python scripts for implied volatility calibration.
+The BS folder contains some additional Python scripts for implied volatility estimation, using the Bisection algorithm,  written by M. Dixon.
 
-This is fully compatible with collab but can also be used on a local notebook environment provided that tensorflow is installed for python 3 with a version superior than 2.0.
-In that case, you should ignore cells starting with "from google.colab import files".
+This notebook is fully compatible with Google Colab but can also be used in a local notebook environment provided that Tensorflow is installed for Python 3 with a version at or above 2.0.
+For local deployment, please ignore cells starting with "from google.colab import files".
 
-Several days of market data are listed in data folder.
-Notebook indicate which file you should load for execution.
-
-
+# Data
+Several days of DAX index option chain data is provided in the data folder.
+The notebook indicates which data file you should load for execution.
