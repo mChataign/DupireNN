@@ -1,4 +1,5 @@
 # DupireNN
+
 Neural network local volatility with dupire formula.
 
 Implementation is contained dupireNN.ipynb notebook. Due to gitHub size limitation (25mb max per file), outputs from our notebook have been deleted. Only code is still present in this notebook.
