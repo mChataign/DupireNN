@@ -7,7 +7,7 @@ Dixon, M., Crepey, S. and M. Chataigner, "Deep Local Volatility", preprint, Apri
 Notebook dupireNN.ipynb implements neural network local volatility with the Dupire formula.
 Due to GitHub size limitations (25mb max per file), outputs from our notebook have been deleted. Only the code remains in this notebook.
 
-A second notebook ssvi.ipynb calibrates implied volatilities with methodology developped by Gatheral, J., & Jacquier, A. (2014) in "Arbitrage-free SVI volatility surfaces".
+A second notebook MCBacktests.ipynb calibrates implied volatilities with methodology developped by Gatheral, J., & Jacquier, A. (2014) in "Arbitrage-free SVI volatility surfaces".
 SSVI calibration is inspired from Matlab code  Philipp Rindler (2020). Gatherals and Jacquier's Arbitrage-Free SVI Volatility Surfaces (https://www.mathworks.com/matlabcentral/fileexchange/49962-gatherals-and-jacquier-s-arbitrage-free-svi-volatility-surfaces), MATLAB Central File Exchange. Retrieved June 22, 2020.
 Monte Carlo backtests are also provided for each approach presented in our paper.
 
