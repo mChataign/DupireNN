@@ -1,0 +1,3684 @@
+[underlying]
+s = 5512.28
+repo = 0.0
+
+[zero_coupon] 
+maturity = 0.0833333333333
+price = 0.996229237494
+
+[zero_coupon] 
+maturity = 0.166666666667
+price = 0.992529139666
+
+[zero_coupon] 
+maturity = 0.25
+price = 0.988958405213
+
+[zero_coupon] 
+maturity = 0.333333333333
+price = 0.985649287089
+
+[zero_coupon] 
+maturity = 0.416666666667
+price = 0.982209911622
+
+[zero_coupon] 
+maturity = 0.5
+price = 0.978853206404
+
+[zero_coupon] 
+maturity = 0.583333333333
+price = 0.975579694986
+
+[zero_coupon] 
+maturity = 0.666666666667
+price = 0.972376854239
+
+[zero_coupon] 
+maturity = 0.75
+price = 0.969242930105
+
+[zero_coupon] 
+maturity = 0.833333333333
+price = 0.966045804157
+
+[zero_coupon] 
+maturity = 0.916666666667
+price = 0.962892281675
+
+[zero_coupon] 
+maturity = 1.0
+price = 0.959780402244
+
+[zero_coupon] 
+maturity = 1.08333333333
+price = 0.956491761765
+
+[zero_coupon] 
+maturity = 1.16666666667
+price = 0.953212712512
+
+[zero_coupon] 
+maturity = 1.25
+price = 0.949942093517
+
+[zero_coupon] 
+maturity = 1.33333333333
+price = 0.946671188239
+
+[zero_coupon] 
+maturity = 1.41666666667
+price = 0.943409810616
+
+[zero_coupon] 
+maturity = 1.5
+price = 0.940155458588
+
+[zero_coupon] 
+maturity = 1.58333333333
+price = 0.936801150928
+
+[zero_coupon] 
+maturity = 1.66666666667
+price = 0.933444491447
+
+[zero_coupon] 
+maturity = 1.75
+price = 0.930085593341
+
+[zero_coupon] 
+maturity = 1.83333333333
+price = 0.926841934914
+
+[zero_coupon] 
+maturity = 1.91666666667
+price = 0.923604346781
+
+[zero_coupon] 
+maturity = 2.0
+price = 0.920376155811
+
+[zero_coupon] 
+maturity = 2.08333333333
+price = 0.916998107143
+
+[zero_coupon] 
+maturity = 2.16666666667
+price = 0.913618309339
+
+[zero_coupon] 
+maturity = 2.25
+price = 0.910233165135
+
+[zero_coupon] 
+maturity = 2.33333333333
+price = 0.90683855397
+
+[zero_coupon] 
+maturity = 2.41666666667
+price = 0.903440310794
+
+[zero_coupon] 
+maturity = 2.5
+price = 0.900038574185
+
+[zero_coupon] 
+maturity = 2.58333333333
+price = 0.896557989414
+
+[zero_coupon] 
+maturity = 2.66666666667
+price = 0.893069935501
+
+[zero_coupon] 
+maturity = 2.75
+price = 0.8895769535
+
+[zero_coupon] 
+maturity = 2.83333333333
+price = 0.886137161321
+
+[zero_coupon] 
+maturity = 2.91666666667
+price = 0.882693646008
+
+[zero_coupon] 
+maturity = 3.0
+price = 0.879246557542
+
+[zero_coupon] 
+maturity = 3.08333333333
+price = 0.875785698836
+
+[zero_coupon] 
+maturity = 3.16666666667
+price = 0.872321092846
+
+[zero_coupon] 
+maturity = 3.25
+price = 0.868850190976
+
+[zero_coupon] 
+maturity = 3.33333333333
+price = 0.865384023253
+
+[zero_coupon] 
+maturity = 3.41666666667
+price = 0.86191198428
+
+[zero_coupon] 
+maturity = 3.5
+price = 0.858436930823
+
+[zero_coupon] 
+maturity = 3.58333333333
+price = 0.854859316814
+
+[zero_coupon] 
+maturity = 3.66666666667
+price = 0.851272238073
+
+[zero_coupon] 
+maturity = 3.75
+price = 0.847681826208
+
+[zero_coupon] 
+maturity = 3.83333333333
+price = 0.844159661373
+
+[zero_coupon] 
+maturity = 3.91666666667
+price = 0.840631071863
+
+[zero_coupon] 
+maturity = 4.0
+price = 0.837102471041
+
+[zero_coupon] 
+maturity = 4.08333333333
+price = 0.833603483522
+
+[zero_coupon] 
+maturity = 4.16666666667
+price = 0.830102761246
+
+[zero_coupon] 
+maturity = 4.25
+price = 0.82660045209
+
+[zero_coupon] 
+maturity = 4.33333333333
+price = 0.823086473271
+
+[zero_coupon] 
+maturity = 4.41666666667
+price = 0.819574359902
+
+[zero_coupon] 
+maturity = 4.5
+price = 0.816057392407
+
+[zero_coupon] 
+maturity = 4.58333333333
+price = 0.812428804702
+
+[zero_coupon] 
+maturity = 4.66666666667
+price = 0.808792474588
+
+[zero_coupon] 
+maturity = 4.75
+price = 0.805152118711
+
+[zero_coupon] 
+maturity = 4.83333333333
+price = 0.801604165808
+
+[zero_coupon] 
+maturity = 4.91666666667
+price = 0.798055010195
+
+[zero_coupon] 
+maturity = 5.0
+price = 0.794504809809
+
+[zero_coupon] 
+maturity = 5.08333333333
+price = 0.790972919208
+
+[zero_coupon] 
+maturity = 5.16666666667
+price = 0.787440747487
+
+[zero_coupon] 
+maturity = 5.25
+price = 0.783912370906
+
+[zero_coupon] 
+maturity = 5.33333333333
+price = 0.780364230238
+
+[zero_coupon] 
+maturity = 5.41666666667
+price = 0.776815901279
+
+[zero_coupon] 
+maturity = 5.5
+price = 0.77326753603
+
+[zero_coupon] 
+maturity = 5.58333333333
+price = 0.769616774055
+
+[zero_coupon] 
+maturity = 5.66666666667
+price = 0.765964219437
+
+[zero_coupon] 
+maturity = 5.75
+price = 0.762310065974
+
+[zero_coupon] 
+maturity = 5.83333333333
+price = 0.758738928526
+
+[zero_coupon] 
+maturity = 5.91666666667
+price = 0.755168149666
+
+[zero_coupon] 
+maturity = 6.0
+price = 0.751597885344
+
+[zero_coupon] 
+maturity = 6.08333333333
+price = 0.748110726389
+
+[zero_coupon] 
+maturity = 6.16666666667
+price = 0.744625841765
+
+[zero_coupon] 
+maturity = 6.25
+price = 0.741143353055
+
+[zero_coupon] 
+maturity = 6.33333333333
+price = 0.737654475716
+
+[zero_coupon] 
+maturity = 6.41666666667
+price = 0.734168088108
+
+[zero_coupon] 
+maturity = 6.5
+price = 0.730679787253
+
+[zero_coupon] 
+maturity = 6.58333333333
+price = 0.72712573473
+
+[zero_coupon] 
+maturity = 6.66666666667
+price = 0.723573423016
+
+[zero_coupon] 
+maturity = 6.75
+price = 0.720022998875
+
+[zero_coupon] 
+maturity = 6.83333333333
+price = 0.716516574459
+
+[zero_coupon] 
+maturity = 6.91666666667
+price = 0.713012923507
+
+[zero_coupon] 
+maturity = 7.0
+price = 0.709512175251
+
+[zero_coupon] 
+maturity = 7.08333333333
+price = 0.706119211142
+
+[zero_coupon] 
+maturity = 7.16666666667
+price = 0.702730813946
+
+[zero_coupon] 
+maturity = 7.25
+price = 0.699351901905
+
+[zero_coupon] 
+maturity = 7.33333333333
+price = 0.695958372307
+
+[zero_coupon] 
+maturity = 7.41666666667
+price = 0.69257438631
+
+[zero_coupon] 
+maturity = 7.5
+price = 0.689195210571
+
+[zero_coupon] 
+maturity = 7.58333333333
+price = 0.68572692336
+
+[zero_coupon] 
+maturity = 7.66666666667
+price = 0.682262531936
+
+[zero_coupon] 
+maturity = 7.75
+price = 0.678802156379
+
+[zero_coupon] 
+maturity = 7.83333333333
+price = 0.675406298704
+
+[zero_coupon] 
+maturity = 7.91666666667
+price = 0.672020406593
+
+[zero_coupon] 
+maturity = 8.0
+price = 0.668639573302
+
+[zero_coupon] 
+maturity = 8.08333333333
+price = 0.665407080413
+
+[zero_coupon] 
+maturity = 8.16666666667
+price = 0.662181329828
+
+[zero_coupon] 
+maturity = 8.25
+price = 0.658957207883
+
+[zero_coupon] 
+maturity = 8.33333333333
+price = 0.655724300725
+
+[zero_coupon] 
+maturity = 8.41666666667
+price = 0.652498092598
+
+[zero_coupon] 
+maturity = 8.5
+price = 0.649278642074
+
+[zero_coupon] 
+maturity = 8.58333333333
+price = 0.645992228681
+
+[zero_coupon] 
+maturity = 8.66666666667
+price = 0.642712017105
+
+[zero_coupon] 
+maturity = 8.75
+price = 0.639438083597
+
+[zero_coupon] 
+maturity = 8.83333333333
+price = 0.636223896341
+
+[zero_coupon] 
+maturity = 8.91666666667
+price = 0.633021949207
+
+[zero_coupon] 
+maturity = 9.0
+price = 0.62982160027
+
+[zero_coupon] 
+maturity = 9.08333333333
+price = 0.626736387017
+
+[zero_coupon] 
+maturity = 9.16666666667
+price = 0.623653676774
+
+[zero_coupon] 
+maturity = 9.25
+price = 0.620584339685
+
+[zero_coupon] 
+maturity = 9.33333333333
+price = 0.617523000372
+
+[zero_coupon] 
+maturity = 9.41666666667
+price = 0.614469690418
+
+[zero_coupon] 
+maturity = 9.5
+price = 0.611418925602
+
+[zero_coupon] 
+maturity = 9.58333333333
+price = 0.608293183009
+
+[zero_coupon] 
+maturity = 9.66666666667
+price = 0.605174938432
+
+[zero_coupon] 
+maturity = 9.75
+price = 0.602058669253
+
+[zero_coupon] 
+maturity = 9.83333333333
+price = 0.599005868987
+
+[zero_coupon] 
+maturity = 9.91666666667
+price = 0.595961039379
+
+[zero_coupon] 
+maturity = 10.0
+price = 0.592924217296
+
+[zero_coupon] 
+maturity = 10.0833333333
+price = 0.589980117301
+
+[zero_coupon] 
+maturity = 10.1666666667
+price = 0.587038959382
+
+[zero_coupon] 
+maturity = 10.25
+price = 0.584112070891
+
+[zero_coupon] 
+maturity = 10.3333333333
+price = 0.581182426852
+
+[zero_coupon] 
+maturity = 10.4166666667
+price = 0.578261373828
+
+[zero_coupon] 
+maturity = 10.5
+price = 0.575348930724
+
+[zero_coupon] 
+maturity = 10.5833333333
+price = 0.572376152821
+
+[zero_coupon] 
+maturity = 10.6666666667
+price = 0.569405895224
+
+[zero_coupon] 
+maturity = 10.75
+price = 0.566443921893
+
+[zero_coupon] 
+maturity = 10.8333333333
+price = 0.563542374518
+
+[zero_coupon] 
+maturity = 10.9166666667
+price = 0.560643620828
+
+[zero_coupon] 
+maturity = 11.0
+price = 0.557759276804
+
+[zero_coupon] 
+maturity = 11.0833333333
+price = 0.554895236261
+
+[zero_coupon] 
+maturity = 11.1666666667
+price = 0.552039908546
+
+[zero_coupon] 
+maturity = 11.25
+price = 0.549193311256
+
+[zero_coupon] 
+maturity = 11.3333333333
+price = 0.546349591218
+
+[zero_coupon] 
+maturity = 11.4166666667
+price = 0.543508728986
+
+[zero_coupon] 
+maturity = 11.5
+price = 0.540682495148
+
+[zero_coupon] 
+maturity = 11.5833333333
+price = 0.537776462135
+
+[zero_coupon] 
+maturity = 11.6666666667
+price = 0.534878906153
+
+[zero_coupon] 
+maturity = 11.75
+price = 0.53198985956
+
+[zero_coupon] 
+maturity = 11.8333333333
+price = 0.52916868995
+
+[zero_coupon] 
+maturity = 11.9166666667
+price = 0.526356277641
+
+[zero_coupon] 
+maturity = 12.0
+price = 0.523552642868
+
+[zero_coupon] 
+maturity = 12.0833333333
+price = 0.520906871573
+
+[zero_coupon] 
+maturity = 12.1666666667
+price = 0.518270392718
+
+[zero_coupon] 
+maturity = 12.25
+price = 0.515643200948
+
+[zero_coupon] 
+maturity = 12.3333333333
+price = 0.513013302851
+
+[zero_coupon] 
+maturity = 12.4166666667
+price = 0.510398645978
+
+[zero_coupon] 
+maturity = 12.5
+price = 0.507787228752
+
+[zero_coupon] 
+maturity = 12.5833333333
+price = 0.50510677235
+
+[zero_coupon] 
+maturity = 12.6666666667
+price = 0.502435333717
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 4400.0
+price = 1116.0
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 4400.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 4600.0
+price = 916.4
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 4600.0
+price = 0.5
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 4900.0
+price = 618.0
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 4900.0
+price = 1.8
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5000.0
+price = 519.0
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5000.0
+price = 2.6
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5100.0
+price = 421.4
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5100.0
+price = 4.9
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5200.0
+price = 324.7
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5200.0
+price = 8.2
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5300.0
+price = 234.7
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5300.0
+price = 18.0
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5350.0
+price = 191.7
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5350.0
+price = 25.0
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5400.0
+price = 151.1
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5400.0
+price = 34.3
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5450.0
+price = 116.4
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5450.0
+price = 49.6
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5500.0
+price = 84.5
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5500.0
+price = 67.6
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5550.0
+price = 61.3
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5550.0
+price = 94.5
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5600.0
+price = 41.9
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5600.0
+price = 125.0
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5650.0
+price = 26.5
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5650.0
+price = 159.6
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5700.0
+price = 18.0
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5700.0
+price = 201.0
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5750.0
+price = 9.7
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5750.0
+price = 242.7
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5800.0
+price = 6.6
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5800.0
+price = 289.5
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5850.0
+price = 4.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5850.0
+price = 337.1
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5900.0
+price = 2.0
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5900.0
+price = 384.8
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 5950.0
+price = 1.4
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 5950.0
+price = 434.1
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6000.0
+price = 1.0
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6000.0
+price = 483.7
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6050.0
+price = 0.8
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6050.0
+price = 533.4
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6100.0
+price = 0.6
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6100.0
+price = 583.2
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6150.0
+price = 0.3
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6150.0
+price = 632.8
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6200.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6200.0
+price = 682.7
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6250.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6250.0
+price = 732.6
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6300.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6300.0
+price = 782.6
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6350.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6350.0
+price = 832.5
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6400.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6400.0
+price = 882.5
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6450.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6450.0
+price = 932.4
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6500.0
+price = 0.2
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6500.0
+price = 982.4
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6600.0
+price = 0.1
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6600.0
+price = 1082.2
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6700.0
+price = 0.1
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6700.0
+price = 1182.1
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6800.0
+price = 0.1
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6800.0
+price = 1281.9
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 6900.0
+price = 0.1
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 6900.0
+price = 1381.8
+
+[option] 
+maturity = 0.0219178082192
+type = 1
+strike = 7000.0
+price = 0.1
+
+[option] 
+maturity = 0.0219178082192
+type = 2
+strike = 7000.0
+price = 1481.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 3600.0
+price = 1929.8
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 3600.0
+price = 0.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 3800.0
+price = 1731.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 3800.0
+price = 0.6
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 3900.0
+price = 1631.8
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 3900.0
+price = 0.8
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4000.0
+price = 1532.6
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4000.0
+price = 1.1
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4100.0
+price = 1433.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4100.0
+price = 1.5
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4200.0
+price = 1334.6
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4200.0
+price = 2.1
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4300.0
+price = 1236.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4300.0
+price = 3.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4400.0
+price = 1137.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4400.0
+price = 4.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4500.0
+price = 1039.8
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4500.0
+price = 5.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4600.0
+price = 942.4
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4600.0
+price = 7.8
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4700.0
+price = 846.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4700.0
+price = 10.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4800.0
+price = 751.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4800.0
+price = 15.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 4900.0
+price = 659.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 4900.0
+price = 23.1
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5000.0
+price = 567.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5000.0
+price = 30.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5100.0
+price = 480.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5100.0
+price = 42.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5200.0
+price = 396.7
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5200.0
+price = 59.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5250.0
+price = 358.3
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5250.0
+price = 70.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5300.0
+price = 320.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5300.0
+price = 82.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5350.0
+price = 284.3
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5350.0
+price = 95.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5400.0
+price = 250.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5400.0
+price = 111.5
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5450.0
+price = 216.6
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5450.0
+price = 127.6
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5500.0
+price = 188.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5500.0
+price = 149.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5550.0
+price = 160.8
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5550.0
+price = 171.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5600.0
+price = 135.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5600.0
+price = 195.8
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5650.0
+price = 113.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5650.0
+price = 223.1
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5700.0
+price = 92.9
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5700.0
+price = 252.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5750.0
+price = 77.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5750.0
+price = 286.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5800.0
+price = 61.9
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5800.0
+price = 321.2
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5850.0
+price = 49.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5850.0
+price = 358.1
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5900.0
+price = 38.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5900.0
+price = 397.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 5950.0
+price = 29.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 5950.0
+price = 438.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6000.0
+price = 23.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6000.0
+price = 481.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6050.0
+price = 17.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6050.0
+price = 525.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6100.0
+price = 13.3
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6100.0
+price = 571.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6150.0
+price = 9.8
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6150.0
+price = 617.3
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6200.0
+price = 7.4
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6200.0
+price = 664.6
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6250.0
+price = 5.7
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6250.0
+price = 712.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6300.0
+price = 4.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6300.0
+price = 760.8
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6350.0
+price = 3.3
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6350.0
+price = 809.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6400.0
+price = 2.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6400.0
+price = 858.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6450.0
+price = 2.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6450.0
+price = 907.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6500.0
+price = 1.5
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6500.0
+price = 957.2
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6600.0
+price = 1.0
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6600.0
+price = 1056.2
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6700.0
+price = 0.6
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6700.0
+price = 1155.2
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6800.0
+price = 0.6
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6800.0
+price = 1254.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 6900.0
+price = 0.4
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 6900.0
+price = 1354.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7000.0
+price = 0.3
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7000.0
+price = 1453.4
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7100.0
+price = 0.3
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7100.0
+price = 1552.8
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7200.0
+price = 0.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7200.0
+price = 1652.3
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7300.0
+price = 0.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7300.0
+price = 1751.7
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7400.0
+price = 0.2
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7400.0
+price = 1851.2
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7500.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7500.0
+price = 1950.6
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7600.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7600.0
+price = 2050.1
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7700.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7700.0
+price = 2149.5
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7800.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7800.0
+price = 2249.0
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 7900.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 7900.0
+price = 2348.5
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 8000.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 8000.0
+price = 2447.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 8200.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 8200.0
+price = 2646.9
+
+[option] 
+maturity = 0.117808219178
+type = 1
+strike = 8400.0
+price = 0.1
+
+[option] 
+maturity = 0.117808219178
+type = 2
+strike = 8400.0
+price = 2845.9
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 4800.0
+price = 787.1
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 4800.0
+price = 34.8
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 4900.0
+price = 698.3
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 4900.0
+price = 45.2
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5000.0
+price = 610.7
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5000.0
+price = 56.8
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5100.0
+price = 529.6
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5100.0
+price = 74.8
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5200.0
+price = 450.3
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5200.0
+price = 94.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5300.0
+price = 377.7
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5300.0
+price = 121.3
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5350.0
+price = 341.4
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5350.0
+price = 134.5
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5400.0
+price = 309.9
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5400.0
+price = 152.5
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5450.0
+price = 278.4
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5450.0
+price = 170.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5500.0
+price = 247.3
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5500.0
+price = 189.1
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5550.0
+price = 220.5
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5550.0
+price = 211.9
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5600.0
+price = 194.0
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5600.0
+price = 235.0
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5650.0
+price = 168.7
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5650.0
+price = 259.2
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5700.0
+price = 147.1
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5700.0
+price = 287.2
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5750.0
+price = 127.0
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5750.0
+price = 316.8
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5800.0
+price = 107.6
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5800.0
+price = 346.8
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5850.0
+price = 91.6
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5850.0
+price = 380.4
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5900.0
+price = 77.2
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5900.0
+price = 415.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 5950.0
+price = 63.6
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 5950.0
+price = 451.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6000.0
+price = 53.9
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6000.0
+price = 491.5
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6050.0
+price = 44.5
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6050.0
+price = 531.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6100.0
+price = 36.3
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6100.0
+price = 573.0
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6200.0
+price = 23.7
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6200.0
+price = 659.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6300.0
+price = 15.5
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6300.0
+price = 750.5
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6400.0
+price = 9.4
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6400.0
+price = 843.6
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6500.0
+price = 5.6
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6500.0
+price = 939.0
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6600.0
+price = 3.9
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6600.0
+price = 1036.5
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6700.0
+price = 2.4
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6700.0
+price = 1134.1
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6800.0
+price = 1.6
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6800.0
+price = 1232.5
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 6900.0
+price = 1.1
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 6900.0
+price = 1331.1
+
+[option] 
+maturity = 0.194520547945
+type = 1
+strike = 7000.0
+price = 0.8
+
+[option] 
+maturity = 0.194520547945
+type = 2
+strike = 7000.0
+price = 1430.0
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 3600.0
+price = 1971.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 3600.0
+price = 5.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 3800.0
+price = 1778.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 3800.0
+price = 9.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4000.0
+price = 1586.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4000.0
+price = 14.4
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4100.0
+price = 1491.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4100.0
+price = 17.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4200.0
+price = 1397.5
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4200.0
+price = 22.0
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4300.0
+price = 1305.0
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4300.0
+price = 28.0
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4400.0
+price = 1213.0
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4400.0
+price = 34.4
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4500.0
+price = 1121.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4500.0
+price = 41.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4600.0
+price = 1033.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4600.0
+price = 51.4
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4700.0
+price = 945.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4700.0
+price = 62.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4800.0
+price = 858.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4800.0
+price = 73.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 4900.0
+price = 777.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 4900.0
+price = 91.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5000.0
+price = 697.4
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5000.0
+price = 109.4
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5100.0
+price = 620.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5100.0
+price = 131.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5200.0
+price = 547.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5200.0
+price = 156.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5300.0
+price = 478.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5300.0
+price = 185.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5350.0
+price = 445.0
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5350.0
+price = 201.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5400.0
+price = 413.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5400.0
+price = 218.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5450.0
+price = 382.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5450.0
+price = 237.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5500.0
+price = 351.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5500.0
+price = 255.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5550.0
+price = 323.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5550.0
+price = 277.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5600.0
+price = 296.9
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5600.0
+price = 299.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5650.0
+price = 271.3
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5650.0
+price = 323.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5700.0
+price = 245.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5700.0
+price = 346.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5750.0
+price = 223.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5750.0
+price = 373.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5800.0
+price = 201.9
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5800.0
+price = 401.4
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5850.0
+price = 181.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5850.0
+price = 430.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5900.0
+price = 162.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5900.0
+price = 460.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 5950.0
+price = 145.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 5950.0
+price = 492.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6000.0
+price = 129.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6000.0
+price = 525.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6050.0
+price = 114.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6050.0
+price = 559.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6100.0
+price = 100.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6100.0
+price = 595.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6150.0
+price = 88.0
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6150.0
+price = 632.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6200.0
+price = 77.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6200.0
+price = 670.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6250.0
+price = 68.0
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6250.0
+price = 710.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6300.0
+price = 58.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6300.0
+price = 750.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6400.0
+price = 44.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6400.0
+price = 835.0
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6500.0
+price = 32.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6500.0
+price = 920.7
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6600.0
+price = 23.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6600.0
+price = 1010.7
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6700.0
+price = 16.7
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6700.0
+price = 1102.2
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6800.0
+price = 11.8
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6800.0
+price = 1195.7
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 6900.0
+price = 8.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 6900.0
+price = 1290.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7000.0
+price = 6.3
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7000.0
+price = 1387.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7100.0
+price = 4.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7100.0
+price = 1483.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7200.0
+price = 3.4
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7200.0
+price = 1581.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7300.0
+price = 2.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7300.0
+price = 1678.7
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7400.0
+price = 2.0
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7400.0
+price = 1776.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7500.0
+price = 1.5
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7500.0
+price = 1874.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7600.0
+price = 1.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7600.0
+price = 1972.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7700.0
+price = 0.9
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7700.0
+price = 2070.7
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7800.0
+price = 0.6
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7800.0
+price = 2168.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 7900.0
+price = 0.5
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 7900.0
+price = 2267.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 8000.0
+price = 0.5
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 8000.0
+price = 2365.7
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 8200.0
+price = 0.3
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 8200.0
+price = 2562.3
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 8400.0
+price = 0.2
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 8400.0
+price = 2759.1
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 8600.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 8600.0
+price = 2955.9
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 8800.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 8800.0
+price = 3152.8
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 9000.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 9000.0
+price = 3349.6
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 9200.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 9200.0
+price = 3546.5
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 9400.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 9400.0
+price = 3743.4
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 9600.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 9600.0
+price = 3940.2
+
+[option] 
+maturity = 0.367237442922
+type = 1
+strike = 10000.0
+price = 0.1
+
+[option] 
+maturity = 0.367237442922
+type = 2
+strike = 10000.0
+price = 4334.0
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 3600.0
+price = 2013.1
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 3600.0
+price = 17.1
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 3800.0
+price = 1825.8
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 3800.0
+price = 24.8
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 4000.0
+price = 1641.3
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 4000.0
+price = 35.3
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 4200.0
+price = 1460.3
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 4200.0
+price = 49.4
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 4400.0
+price = 1284.9
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 4400.0
+price = 69.1
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 4600.0
+price = 1113.8
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 4600.0
+price = 93.0
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 4800.0
+price = 951.7
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 4800.0
+price = 125.9
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5000.0
+price = 798.4
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5000.0
+price = 167.7
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5200.0
+price = 655.5
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5200.0
+price = 219.7
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5300.0
+price = 588.6
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5300.0
+price = 250.4
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5400.0
+price = 525.2
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5400.0
+price = 284.5
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5500.0
+price = 463.9
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5500.0
+price = 320.7
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5600.0
+price = 409.0
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5600.0
+price = 363.4
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5700.0
+price = 356.7
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5700.0
+price = 408.6
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5800.0
+price = 308.9
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5800.0
+price = 458.3
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 5900.0
+price = 264.9
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 5900.0
+price = 511.8
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6000.0
+price = 225.1
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6000.0
+price = 569.5
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6100.0
+price = 189.4
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6100.0
+price = 631.3
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6200.0
+price = 158.3
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6200.0
+price = 697.7
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6300.0
+price = 129.1
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6300.0
+price = 766.0
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6400.0
+price = 105.8
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6400.0
+price = 840.3
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6500.0
+price = 85.6
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6500.0
+price = 917.5
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6600.0
+price = 68.1
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6600.0
+price = 997.6
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6700.0
+price = 53.9
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6700.0
+price = 1081.0
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6800.0
+price = 41.5
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6800.0
+price = 1166.0
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 6900.0
+price = 32.8
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 6900.0
+price = 1254.9
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 7000.0
+price = 24.7
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 7000.0
+price = 1344.3
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 7100.0
+price = 19.5
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 7100.0
+price = 1436.6
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 7200.0
+price = 15.1
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 7200.0
+price = 1529.7
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 7300.0
+price = 11.5
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 7300.0
+price = 1623.6
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 7400.0
+price = 9.6
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 7400.0
+price = 1719.3
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 7600.0
+price = 5.8
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 7600.0
+price = 1910.4
+
+[option] 
+maturity = 0.597374429224
+type = 1
+strike = 8000.0
+price = 2.1
+
+[option] 
+maturity = 0.597374429224
+type = 2
+strike = 8000.0
+price = 2296.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 3600.0
+price = 2073.6
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 3600.0
+price = 35.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 3800.0
+price = 1898.5
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 3800.0
+price = 52.8
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 4000.0
+price = 1713.2
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 4000.0
+price = 60.4
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 4200.0
+price = 1541.9
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 4200.0
+price = 82.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 4400.0
+price = 1370.7
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 4400.0
+price = 103.7
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 4600.0
+price = 1211.3
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 4600.0
+price = 137.3
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 4800.0
+price = 1052.7
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 4800.0
+price = 171.6
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5000.0
+price = 910.1
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5000.0
+price = 221.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5200.0
+price = 773.8
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5200.0
+price = 278.5
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5400.0
+price = 652.2
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5400.0
+price = 349.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5500.0
+price = 585.3
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5500.0
+price = 379.5
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5600.0
+price = 524.1
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5600.0
+price = 414.7
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5700.0
+price = 471.0
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5700.0
+price = 458.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5800.0
+price = 419.6
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5800.0
+price = 503.1
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 5900.0
+price = 371.9
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 5900.0
+price = 551.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6000.0
+price = 328.5
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6000.0
+price = 605.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6100.0
+price = 286.0
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6100.0
+price = 658.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6200.0
+price = 247.7
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6200.0
+price = 717.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6300.0
+price = 216.3
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6300.0
+price = 782.2
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6400.0
+price = 184.7
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6400.0
+price = 847.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6600.0
+price = 137.4
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6600.0
+price = 992.6
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 6800.0
+price = 96.2
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 6800.0
+price = 1144.4
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 7000.0
+price = 67.0
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 7000.0
+price = 1308.1
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 7200.0
+price = 46.1
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 7200.0
+price = 1480.1
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 7400.0
+price = 30.0
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 7400.0
+price = 1656.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 7600.0
+price = 21.2
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 7600.0
+price = 1841.0
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 7800.0
+price = 13.9
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 7800.0
+price = 2026.7
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 8000.0
+price = 9.3
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 8000.0
+price = 2214.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 8200.0
+price = 6.0
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 8200.0
+price = 2404.6
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 8400.0
+price = 3.7
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 8400.0
+price = 2595.2
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 8600.0
+price = 2.3
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 8600.0
+price = 2786.7
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 8800.0
+price = 1.5
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 8800.0
+price = 2978.9
+
+[option] 
+maturity = 0.865753424658
+type = 1
+strike = 9000.0
+price = 1.1
+
+[option] 
+maturity = 0.865753424658
+type = 2
+strike = 9000.0
+price = 3171.3
+
+[dividend] 
+maturity = 0.0219178082192
+amount = 0.909313489483
+
+[dividend] 
+maturity = 0.117808219178
+amount = 1.40017944229
+
+[dividend] 
+maturity = 0.194520547945
+amount = -0.477582495025
+
+[dividend] 
+maturity = 0.367237442922
+amount = 1.40982541981
+
+[dividend] 
+maturity = 0.597374429224
+amount = 3.19706394662
+
+[dividend] 
+maturity = 0.865753424658
+amount = -6.67305286377
+
