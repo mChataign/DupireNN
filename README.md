@@ -1,5 +1,7 @@
 # DupireNN
 Authors: Chataigner, Crepey and Dixon. If this code is used for research purposes, please cite as:
+
+
 M. Chataigner, S. Crepey and M. Dixon, Deep Local Volatility, to appear in Risks, Special Issue on Machine Learning in Finance, Eds. Thorsten Schmidt, Invited Paper, 2020
 
 # Overview
