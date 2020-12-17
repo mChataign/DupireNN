@@ -1,8 +1,10 @@
 # DupireNN
-Authors: Chataigner, Crepey and Dixon. If this code is used for research purposes, please cite as:
+Authors: Chataigner, Cousin, Crepey, Dixon, and Gueye. 
 
+If this code is used for research purposes, please cite as:
 
-M. Chataigner, S. Crepey and M. Dixon, Deep Local Volatility, to appear in Risks, Special Issue on Machine Learning in Finance, Eds. Thorsten Schmidt, Invited Paper, 2020
+M. Chataigner, A. Cousin, S. Crepey, M.F. Dixon, and D. Gueye, [Beyond Surrogate Modeling: Learning the Local Volatility Via Shape Constraints](http://mypages.iit.edu/~mdixon7/preprints/local_vol.pdf), working paper, 2020.
+M. Chataigner, S. Crepey and M. Dixon, [Deep Local Volatility](https://www.mdpi.com/2227-9091/8/3/82), Risks 8(3), 82, Special Issue on Machine Learning in Finance, Eds. Thorsten Schmidt, 2020.
 
 # Overview
 Notebook dupireNN.ipynb implements neural network local volatility with the Dupire formula.
@@ -17,6 +19,8 @@ The BS folder contains some additional Python scripts for implied volatility est
 These notebooks are fully compatible with Google Colab but can also be used in a local notebook environment provided that Tensorflow is installed for Python 3 with a version at or above 2.0.
 For local deployment, please ignore cells starting with "from google.colab import files".
 
+The Matlab code implements the shape constrained GP code and is written by A.  Cousin and D. Gueye.
+
 # Data
-Several days of DAX index option chain data is provided in the data folder.
+Several days of DAX index option chain data and more recent SPX index option data is provided in the data folder.
 The notebook indicates which data file you should load for execution.
